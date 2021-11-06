@@ -4,6 +4,9 @@
 /* @import "https://monstrousdev.github.io/themes/addons/filter.css"; */
 @import "https://themonstrousdev.github.io/styles/google-fonts.css";
 
+/* Windows Button Animations */
+@import url("https://xhylo.github.io/WinBAcss/winbuttons.css");
+
 /*
 
   █████   █    ██  ▓█████  ██████  █    ██  ██ ▄█▀  ██▓██▓   ██████ 
@@ -3298,9 +3301,6 @@ background-attachment: fixed;
 }
 
 /* XIV. Addon Optimization */
-
-/* Windows Button Animations */
-@import url("https://xhylo.github.io/WinBAcss/winbuttons.css");
 
 
 /* Custom User Popout */
